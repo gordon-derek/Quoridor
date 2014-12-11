@@ -1,7 +1,7 @@
 package quoridorClient;
 
 /**
- * @author Cody Hamilton
+ * @author ******
  * 
  */
 public class Client {

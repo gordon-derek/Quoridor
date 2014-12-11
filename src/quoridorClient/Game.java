@@ -2,7 +2,6 @@
  * Project: Quoridor
  * Author: Derek Gordon
  * Date: 3/11/14
- * Contributors: Cody Hamilton, Parker Simms, Jeremy Rose, James O'leary
  * 
  * Notice: Many of this code is not the authors, this is a compilation of a previous
  * class file in which all team members were a part of designing.

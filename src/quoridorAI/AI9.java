@@ -1,5 +1,5 @@
 /*
- * Author: Parker Sims
+ * Author: ****
  * AI9 - Reeds Opening (2 player) Making the Assumption we are player 2
  * ( the _ )
  *  --------

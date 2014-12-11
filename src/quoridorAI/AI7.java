@@ -1,5 +1,5 @@
 /*
- * Author: Parker Sims
+ * Author: *****
  * AI7 - Ala Opening (2 player) Making the Assumption we are player 2
  * ( the _ )
  *  --------

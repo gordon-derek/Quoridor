@@ -1,9 +1,9 @@
 /**
- * Author: Jeremy Rose 
+ * Author: ********
  * Implemented random AI, picks a random move
  * out of a list of possible legal moves the player can take.
  * 
- * Note: Cody explained his new version of getLegalMove checked over
+ * Note: ***** explained his new version of getLegalMove checked over
  * my implementation of the getting the legal moves.  
  *  
  */

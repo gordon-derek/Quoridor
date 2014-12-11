@@ -6,7 +6,7 @@ package quoridorGameLogic;
 import java.awt.Color;
 
 /**
- * @author Cody Hamilton
+ * @author *******
  * 
  */
 public class Player {

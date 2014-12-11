@@ -16,7 +16,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
- * @author Cody Hamilton
+ * @author Derek Gordon
  *
  */
 public class ServerTest {

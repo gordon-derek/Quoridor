@@ -6,7 +6,7 @@ import java.io.IOException;
  */
 
 /**
- * @author hamiltcw196
+ * @author 
  *
  */
 public interface Player {

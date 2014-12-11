@@ -4,7 +4,7 @@
 package quoridorGameLogic;
 
 /**
- * @author Jeremy Rose
+ * @author *********
  * The BoardSpace that the board will be made up of and where the players will be sitting.
  * A BoardSpace contains links to all surrounding spaces and is aware of when there is a player
  * its its own space.

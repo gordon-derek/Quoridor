@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import quoridorGameLogic.GameBoard;
 
 /**
- * @author Cody Hamilton
+ * @author *******
  * 
  */
 public class GUIGameWindow extends JFrame {

@@ -2,7 +2,7 @@ package quoridorAI;
 
 /**
  * 
- * @author James O'Leary
+ * @author *******
  *
  * Purpose: Testing rules by placing two walls in a cross
  *

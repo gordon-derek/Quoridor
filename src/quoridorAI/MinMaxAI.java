@@ -8,12 +8,12 @@ import quoridorGameLogic.Player;
 
 /**
  * 
- * @author Derek Gordon, Parker Simms, Jeremy Rose, James O'Leary
+ * @author Derek Gordon
  * 
  *         Implementation of a MinMax algorithm for calculating a given value on
  *         a possible move. Once the values modify the min and max enough to
  *         where the minimum value is actually less than the maximum value, we
- *         have found a viale move.
+ *         have found a viable move.
  */
 public class MinMaxAI extends AI {
 

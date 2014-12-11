@@ -15,7 +15,7 @@ import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 
 /**
- * @author Cody Hamilton
+ * @author ********
  * 
  */
 public class GameBoard {

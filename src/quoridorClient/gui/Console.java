@@ -14,7 +14,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
 /**
- * @author Cody Hamilton Used
+ * @author **** Used
  *         http://stackoverflow.com/questions/342990/create-java
  *         -console-inside-the-panel. As a starting point.
  */

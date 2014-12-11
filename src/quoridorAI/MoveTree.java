@@ -7,7 +7,7 @@ import quoridorGameLogic.*;
 
 /**
  * 
- * @author Derek Gordon, James O'Leary, Parker Sims, Jeremy Rose
+ * @author Derek Gordon
  *
  */
 public class MoveTree {

@@ -1,5 +1,5 @@
 /*
- * Author: Jeremy Rose
+ * Author: ******
  * AI6 - Testing game board purposes.
  * Supposed to attempt to place a wall overlapping another wall. 
  */

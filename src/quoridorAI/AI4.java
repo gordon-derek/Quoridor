@@ -1,5 +1,5 @@
 /*
- * Author: Jeremy Rose
+ * Author: ******
  * Testing purpose AI
  * 
  * Try to place walls off the edge of the board,

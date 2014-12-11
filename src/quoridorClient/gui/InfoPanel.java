@@ -14,7 +14,7 @@ import javax.swing.JTextArea;
 import javax.swing.JPanel;
 
 /**
- * @author Cody Hamilton
+ * @author ********
  * 
  */
 public class InfoPanel extends JPanel {

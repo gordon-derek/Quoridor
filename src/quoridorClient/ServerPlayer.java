@@ -8,7 +8,7 @@ import java.net.*;
 import java.util.Scanner;
 
 /**
- * @author Cody Hamilton
+ * @author Derek Gordon
  * 
  */
 public class ServerPlayer implements Player {
