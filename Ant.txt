@@ -1,0 +1,22 @@
+Team Armored Penguins
+Cody Hamilton, Derek Gordon, Parker Sims, James O'Leary and Jeremy Rose
+
+In order to use our Quoridor game, you must first compile and run 
+the Ant file:
+
+$ ant build.xml
+
+Then, you must spin up the Server in the quoridorServer package. The Server takes
+two parameters: <port number> and <AI number> (the number of the AI that we want to use).
+A full listing of the AI's can be found in Quoridor --> src --> quoridorAI
+A valid Server start up could look something like this:
+
+$ java quoridorServer.Server 3939 7
+
+Lastly, you must spin up the Client in the quoridorClient package. The Client takes two
+parameters: <host name: server port> and <our machine name: our port>. A valid Client start
+up could look something like this:
+
+$ java quoridorClient.Client localhost:3939 localhost:3838
+
+For the actual game protocol, please visit: http://cs.potsdam.edu/Classes/405/assignments/project/protocol.txt

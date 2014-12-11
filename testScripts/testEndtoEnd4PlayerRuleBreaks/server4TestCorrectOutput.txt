@@ -1,0 +1,14 @@
+HELLO 3
+MOVED 1 e2
+Moved Completed
+false
+MOVED 4 h5
+Moved Completed
+false
+MOVED 2 e8
+Moved Completed
+false
+MOVE?
+false
+REMOVED 3
+true

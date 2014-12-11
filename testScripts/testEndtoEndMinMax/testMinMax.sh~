@@ -1,0 +1,9 @@
+bash 1.sh
+
+bash 2.sh
+
+bash testEndtoEnd4PlayerRuleBreaks.sh
+
+bash testEndtoEnd4PlayerWall.sh
+
+

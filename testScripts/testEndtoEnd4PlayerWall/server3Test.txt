@@ -1,0 +1,45 @@
+MOVED 1 e1h
+Moved Completed
+false
+MOVE?
+
+CALCULATING MOVE
+move:a5v
+
+false
+MOVED 4 a5v
+Moved Completed
+false
+MOVED 2 d2h
+Moved Completed
+false
+MOVED 3 h4v
+Moved Completed
+false
+MOVED 1 f1v
+Moved Completed
+false
+MOVE?
+
+CALCULATING MOVE
+move:c3h
+
+false
+MOVED 4 c3h
+Moved Completed
+false
+MOVED 2 a4h
+Moved Completed
+false
+MOVED 3 e8h
+Moved Completed
+false
+MOVED 1 g8h
+Moved Completed
+false
+MOVE?
+
+CALCULATING MOVE
+move:a7v
+
+false

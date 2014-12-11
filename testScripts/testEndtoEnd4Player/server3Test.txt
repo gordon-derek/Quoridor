@@ -1,0 +1,80 @@
+MOVED 1 e2
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 h5
+Moved Completed
+false
+MOVED 2 e8
+Moved Completed
+false
+MOVED 3 b5
+Moved Completed
+false
+MOVED 1 e3
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 g5
+Moved Completed
+false
+MOVED 2 e7
+Moved Completed
+false
+MOVED 3 c5
+Moved Completed
+false
+MOVED 1 e4
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 f5
+Moved Completed
+false
+MOVED 2 e6
+Moved Completed
+false
+MOVED 3 d5
+Moved Completed
+false
+MOVED 1 e5
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 c5
+Moved Completed
+false
+MOVED 2 e4
+Moved Completed
+false
+MOVED 3 f5
+Moved Completed
+false
+MOVED 1 e6
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 b5
+Moved Completed
+false
+MOVED 2 e3
+Moved Completed
+false
+MOVED 3 g5
+Moved Completed
+false
+MOVED 1 e7
+Moved Completed
+false
+MOVE?
+false
+MOVED 4 a5
+Moved Completed
+false
+WINNER 4
+false

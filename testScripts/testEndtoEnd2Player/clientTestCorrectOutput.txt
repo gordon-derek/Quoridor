@@ -1,0 +1,21 @@
+localhost:3939   localhost:3838
+Team Armored Penguins
+Team Armored Penguins
+MOVED 1 e2
+MOVED 2 e8
+MOVED 1 e3
+MOVED 2 e7
+MOVED 1 e4
+MOVED 2 e6
+MOVED 1 e5
+MOVED 2 e4
+MOVED 1 e6
+MOVED 2 e3
+MOVED 1 e7
+MOVED 2 e2
+MOVED 1 e8
+MOVED 2 e1
+WINNER:2
+WINNER:2
+WINNER:2
+WINNER:2

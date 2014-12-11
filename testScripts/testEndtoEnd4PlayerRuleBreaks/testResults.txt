@@ -1,0 +1,127 @@
+0a1
+> HELLO 4
+6c7
+< MOVED 4 b1v
+---
+> MOVED 4 h5
+9c10
+< MOVED 2 e2h
+---
+> MOVED 2 e8
+14c15
+< MOVED 1 d2
+---
+> MOVED 1 e3
+19,20c20,82
+< REMOVED 4
+< true
+---
+> MOVED 4 g5
+> Moved Completed
+> false
+> MOVED 2 e7
+> Moved Completed
+> false
+> MOVED 1 e4
+> Moved Completed
+> false
+> MOVE?
+> false
+> MOVED 4 g4
+> Moved Completed
+> false
+> MOVED 2 e6
+> Moved Completed
+> false
+> MOVED 1 e5
+> Moved Completed
+> false
+> MOVE?
+> false
+> MOVED 4 g5
+> Moved Completed
+> false
+> MOVED 2 e4
+> Moved Completed
+> false
+> MOVED 1 e6
+> Moved Completed
+> false
+> MOVE?
+> false
+> MOVED 4 g4
+> Moved Completed
+> false
+> MOVED 2 e3
+> Moved Completed
+> false
+> MOVED 1 e7
+> Moved Completed
+> false
+> MOVE?
+> false
+> MOVED 4 g3
+> Moved Completed
+> false
+> MOVED 2 e2
+> Moved Completed
+> false
+> MOVED 1 e8
+> Moved Completed
+> false
+> MOVE?
+> false
+> MOVED 4 g2
+> Moved Completed
+> false
+> MOVED 2 e1
+> Moved Completed
+> false
+> WINNER 2
+> false
+0a1
+> HELLO 3
+4c5
+< MOVED 4 b1v
+---
+> MOVED 4 h5
+7c8
+< MOVED 2 e2h
+---
+> MOVED 2 e8
+2,5c2,31
+< READY Team Armored Penguins
+< READY Team Armored Penguins
+< READY Team Armored Penguins
+< READY Team Armored Penguins
+---
+> Team Armored Penguins
+> Team Armored Penguins
+> Team Armored Penguins
+> Team Armored Penguins
+> MOVED 1 e2
+> MOVED 4 h5
+> MOVED 2 e8
+> REMOVED 3
+> MOVED 1 e3
+> MOVED 4 g5
+> MOVED 2 e7
+> MOVED 1 e4
+> MOVED 4 g4
+> MOVED 2 e6
+> MOVED 1 e5
+> MOVED 4 g5
+> MOVED 2 e4
+> MOVED 1 e6
+> MOVED 4 g4
+> MOVED 2 e3
+> MOVED 1 e7
+> MOVED 4 g3
+> MOVED 2 e2
+> MOVED 1 e8
+> MOVED 4 g2
+> MOVED 2 e1
+> WINNER:2
+> WINNER:2
+> WINNER:2
+> WINNER:2

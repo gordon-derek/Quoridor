@@ -1,0 +1,114 @@
+MOVED 1 f1
+Moved Completed
+false
+MOVE?
+e8
+false
+MOVED 2 e8
+Moved Completed
+false
+MOVED 1 d7h
+Moved Completed
+false
+MOVE?
+d8
+false
+MOVED 2 d8
+Moved Completed
+false
+MOVED 1 f2
+Moved Completed
+false
+MOVE?
+c8
+false
+MOVED 2 c8
+Moved Completed
+false
+MOVED 1 f3
+Moved Completed
+false
+MOVE?
+c7
+false
+MOVED 2 c7
+Moved Completed
+false
+MOVED 1 f4
+Moved Completed
+false
+MOVE?
+c6
+false
+MOVED 2 c6
+Moved Completed
+false
+MOVED 1 f5
+Moved Completed
+false
+MOVE?
+f5h
+false
+MOVED 2 f5h
+Moved Completed
+false
+MOVED 1 g5
+Moved Completed
+false
+MOVE?
+h5h
+false
+MOVED 2 h5h
+Moved Completed
+false
+MOVED 1 f5
+Moved Completed
+false
+MOVE?
+e4v
+false
+MOVED 2 e4v
+Moved Completed
+false
+MOVED 1 f4
+Moved Completed
+false
+MOVE?
+e3h
+false
+MOVED 2 e3h
+Moved Completed
+false
+MOVED 1 g4
+Moved Completed
+false
+MOVE?
+g3h
+false
+MOVED 2 g3h
+Moved Completed
+false
+MOVED 1 h4
+Moved Completed
+false
+MOVE?
+h3v
+false
+MOVED 2 h3v
+Moved Completed
+false
+MOVED 1 h5
+Moved Completed
+false
+MOVE?
+d2v
+false
+MOVED 2 d2v
+Moved Completed
+false
+MOVED 1 i5
+Moved Completed
+false
+MOVE?
+g1v
+false
